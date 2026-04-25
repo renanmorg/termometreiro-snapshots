@@ -1,0 +1,1 @@
+# termometreiro-snapshots
